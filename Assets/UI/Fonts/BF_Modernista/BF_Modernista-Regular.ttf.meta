@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a9ae3105ed06fe54ebcf937dbc0d2de4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - BF_Modernista
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 077178fae1877084d8d90056e0627c1c, type: 3}
+  - {fileID: 12800000, guid: f8890338619bad44e94fbdbaab8477da, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

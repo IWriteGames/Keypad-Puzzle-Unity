@@ -29,8 +29,6 @@ The panel is a 3D modelling created by me in Blender 3.
 
 ![Image Capture](https://iwritegame.com/github/img/keyboard-puzzle-github-readme.jpg)
 
-You can find more information about the project and its architecture in the video on Youtube
-
 ## About the development and improvements
 
 This project was originally done with HTML, CSS and Javascript for a website years ago.
